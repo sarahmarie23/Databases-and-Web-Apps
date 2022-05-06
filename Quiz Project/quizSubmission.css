@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+    font-family: 'Pirata One', cursive;
+    text-align: center;
+}
+
+.text {
+    font-size: 40px;
+    color: white;
+}
+
+a {
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+a:hover {
+    background-color: white;
+    color: black;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5px;
+}

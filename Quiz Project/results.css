@@ -1,0 +1,43 @@
+body {
+  
+  background-image: url('ship.png'), url('sunset2.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-attachment: fixed;
+  background-size: cover;
+  
+}
+
+table {
+    font-family: 'Pirata One', cursive;
+    border: 3px solid;
+    border-color: black;
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: auto;
+    background-color: dimgray;
+}
+
+th, td {
+    padding: 30px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    
+}
+
+tr:hover {
+    background-color: black;
+}
+
+h1{
+    font-family: 'Pirata One', cursive;
+    float: left;
+    position: fixed;
+    margin-right: 10%;
+    margin-left: 7%;
+}
+
+#data{
+    color: bisque;
+    font-size: 20px;
+}
